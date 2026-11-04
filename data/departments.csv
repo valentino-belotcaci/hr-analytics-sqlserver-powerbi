@@ -1,0 +1,10 @@
+﻿DepartmentID,DepartmentName,CostCenter
+1,Private Banking,CC100
+2,Asset Management,CC200
+3,Compliance,CC300
+4,Risk,CC400
+5,IT,CC500
+6,Human Resources,CC600
+7,Finance,CC700
+8,Operations,CC800
+9,Legal,CC900
