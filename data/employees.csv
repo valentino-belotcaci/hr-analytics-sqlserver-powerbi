@@ -1,0 +1,407 @@
+﻿EmployeeID,FirstName,LastName,Gender,BirthDate,HireDate,TerminationDate,DepartmentID,LocationID,ManagerID,JobTitle,Grade,EmploymentPct,Salary,Email
+1128,Sara,Smith,F,1988-04-05,2011-01-10,,8,6,1072,Settlement Officer,Analyst,80,75000,sara.smith1128@example-bank.com
+1137,Marta,Conti,F,1993-07-11,2013-08-18,,3,2,1010,AML Analyst,Specialist,60,86000,marta.conti1137@example-bank.com
+1257,Matteo,Tan,M,1986-10-15,2012-06-28,2023-02-14,7,5,1062,Financial Controller,Specialist,100,85500,matteo.tan1257@example-bank.com
+1231,Andrea,Fontana,M,1980-10-08,2026-02-16,,1,4,1010,Relationship Manager,Specialist,100,90000,andrea.fontana1231@example-bank.com
+1129,Chiara,Huber,F,1970-08-17,2022-08-10,,5,1,1023,Business Analyst,Specialist,100,87500,chiara.huber1129@example-bank.com
+1220,Claire,Colombo,F,1995-04-04,2028-02-01,,8,1,1023,Operations Specialist,Manager,100,124000,claire.colombo1220@example-bank.com
+1225,Lukas,Huber,M,1977-01-26,2023-09-12,,8,8,1092,Operations Specialist,Analyst,100,91000,lukas.huber1225@example-bank.com
+1264,James,Colombo,M,1999-02-10,2011-02-16,,2,1,1264,Investment Analyst,Manager,100,122500,james.colombo1264@example-bank.com
+1090,Paolo,Weber,M,2002-07-16,2022-07-09,,2,2,1125,Investment Analyst,Specialist,100,89000,paolo.weber1090@example-bank.com
+1130,Paolo,Conti,M,1998-11-22,2023-05-18,,1,1,1122,Relationship Manager,Manager,100,156500,paolo.conti1130@example-bank.com
+1381,Nicolas,Ricci,M,1967-03-25,2026-03-01,,4,1,1037,Risk Analyst,Analyst,80,88500,nicolas.ricci1381@example-bank.com
+1051,Paolo,Conti,M,1967-02-13,2023-02-19,,6,1,1130,HR Business Partner,Manager,100,129000,paolo.conti1051@example-bank.com
+1170,Elena,Galli,F,1975-10-27,2020-11-18,,3,4,1002,Compliance Officer,Manager,100,154000,elena.galli1170@example-bank.com
+1235,Marta,Schmidt,F,1998-07-06,2009-02-11,,2,1,1092,Research Analyst,Specialist,100,109500,marta.schmidt1235@example-bank.com
+1280,Laura,Lombardi,F,1995-06-23,2025-11-07,,2,3,1073,Investment Analyst,Manager,100,153000,laura.lombardi1280@example-bank.com
+1069,Lukas,Weber,M,1978-11-18,2013-02-15,,8,8,1057,Settlement Officer,Specialist,100,93500,lukas.weber1069@example-bank.com
+1243,Lukas,Müller,M,1996-02-26,2017-09-12,,8,1,1062,Settlement Officer,Specialist,100,95000,lukas.müller1243@example-bank.com
+1004,James,Brown,M,2000-10-28,2019-10-07,,7,1,1013,Accountant,Manager,80,115000,james.brown1004@example-bank.com
+1030,Marta,Müller,F,1979-09-10,2021-06-13,,,3,1055,Accountant,Specialist,100,92000,marta.müller1030@example-bank.com
+1217,Paolo,Smith,M,1980-07-23,2018-06-15,2020-10-15,2,1,1061,Portfolio Manager,Analyst,100,94500,paolo.smith1217@example-bank.com
+1150,Alice,Rossi,F,1985-05-27,2008-12-07,,5,1,1077,IT Support,Manager,50,144500,alice.rossi1150@example-bank.com
+1207,Alice,Wong,F,1965-11-18,2025-10-05,,2,1,1004,Research Analyst,Senior,100,169500,alice.wong1207@example-bank.com
+1237,Chiara,Müller,F,1961-04-06,2017-02-16,2023-09-21,8,1,1099,Settlement Officer,Specialist,100,108500,chiara.müller1237@example-bank.com
+1263,Emma,Lombardi,F,1969-04-23,2008-05-14,,6,3,1033,HR Specialist,Specialist,100,102000,emma.lombardi1263@example-bank.com
+1097,Julia,Bianchi,F,1982-09-03,2017-08-15,,1,2,1063,Client Advisor,Analyst,100,72500,julia.bianchi1097@example-bank.com
+1204,Nina,Lombardi,F,1961-11-10,2014-09-20,,5,4,1120,IT Support,Specialist,80,105000,nina.lombardi1204@example-bank.com
+1256,Giulia,Bernasconi,F,1997-10-20,2010-08-07,,5,6,1010,Business Analyst,Specialist,100,93000,giulia.bernasconi1256@example-bank.com
+1199,Elena,Smith,F,1965-11-12,2016-02-12,,6,3,1057,HR Business Partner,Specialist,100,89500,elena.smith1199@example-bank.com
+1200,Marta,Ferrari,F,1966-01-07,2023-02-05,2025-12-15,5,2,1099,Business Analyst,Analyst,100,92000,marta.ferrari1200@example-bank.com
+1313,Daniel,Meier,M,1976-08-25,2015-02-10,2018-03-31,5,2,1055,IT Support,Analyst,100,92500,daniel.meier1313@example-bank.com
+1078,Emma,Martin,F,1983-02-22,2019-09-21,,3,2,1084,Compliance Officer,Senior,100,208000,emma.martin1078@example-bank.com
+1265,Luca,Moretti,M,1991-04-23,2023-06-08,,1,4,1013,Relationship Manager,Manager,100,152500,luca.moretti1265@example-bank.com
+1068,Andrea,Schmidt,M,1965-10-28,2020-10-22,,2,7,1130,Portfolio Manager,Analyst,100,90000,andrea.schmidt1068@example-bank.com
+1045,Emma,Keller,F,1997-05-11,2015-02-09,2022-11-21,8,1,1072,Settlement Officer,Specialist,100,101000,emma.keller1045@example-bank.com
+1160,Nicolas,Huber,M,1990-04-23,2014-07-08,,5,5,1033,Business Analyst,Specialist,100,100500,nicolas.huber1160@example-bank.com
+1153,Emma,Pedrazzini,F,1994-07-18,2020-04-08,,5,1,1077,Data Engineer,Senior,100,164000,emma.pedrazzini1153@example-bank.com
+1345,David,Lombardi,M,1975-07-25,2022-04-24,,9,1,1101,Legal Counsel,Specialist,100,86500,david.lombardi1345@example-bank.com
+1306,James,Meier,M,1988-03-08,2010-09-21,,2,1,1035,Portfolio Manager,Specialist,80,102500,james.meier1306@example-bank.com
+1352,Stefano,Colombo,M,1964-11-18,2020-04-17,,7,4,1013,Accountant,Specialist,100,90000,stefano.colombo1352@example-bank.com
+1079,Luca,Tan,M,1975-03-26,2026-04-03,,8,3,1084,Operations Specialist,Manager,100,124500,luca.tan1079@example-bank.com
+1330,David,Colombo,M,1969-08-26,2008-03-14,,5,8,1072,IT Support,Manager,100,129000,david.colombo1330@example-bank.com
+1183,Stefano,Brown,M,1981-08-26,2014-09-16,,3,1,1130,AML Analyst,Specialist,100,89500,stefano.brown1183@example-bank.com
+1315,Marta,Wong,F,1973-07-18,2025-08-06,,3,3,1075,AML Analyst,Senior,100,223500,marta.wong1315@example-bank.com
+1003,Matteo,Huber,M,1981-02-03,2020-02-12,,8,3,1077,Operations Specialist,Manager,100,144000,matteo.huber1003@example-bank.com
+1300,Claire,Müller,F,1971-11-20,2010-05-28,2011-04-25,8,6,1120,Operations Specialist,Analyst,100,90000,claire.müller1300@example-bank.com
+1101,Marta,Lombardi,F,2002-07-05,2010-05-18,,4,5,1025,Risk Analyst,Manager,50,157000,marta.lombardi1101@example-bank.com
+1164,David,Rossi,M,1986-03-27,2015-02-23,,1,1,1073,Client Advisor,Specialist,100,99500,david.rossi1164@example-bank.com
+1288,Daniel,Moretti,M,1994-07-03,2019-04-07,,6,1,1071,HR Specialist,Analyst,100,94000,daniel.moretti1288@example-bank.com
+1114,Laura,Bianchi,F,2001-04-10,2019-01-28,,6,1,1084,HR Specialist,Specialist,100,92500,laura.bianchi1114@example-bank.com
+1211,Stefano,Schmidt,M,1976-02-19,2011-04-24,,5,1,1027,Software Engineer,Analyst,100,85000,stefano.schmidt1211@example-bank.com
+1291,Laura,Müller,F,1973-09-27,2021-11-27,2022-09-14,8,4,1125,Operations Specialist,Analyst,100,92500,laura.müller1291@example-bank.com
+1144,Luca,Colombo,M,1981-05-19,2014-03-20,2017-11-10,8,6,1027,Settlement Officer,Specialist,100,82500,luca.colombo1144@example-bank.com
+1001,Luca,Colombo,M,1977-04-08,2012-12-04,,7,6,,Accountant,Specialist,100,81000,luca.colombo1001@example-bank.com
+1341,Chiara,Smith,F,1965-07-21,2015-09-25,,8,3,1089,Settlement Officer,Analyst,100,93500,chiara.smith1341@example-bank.com
+1048,Sophie,Colombo,F,1995-06-12,2022-05-10,,2,1,1035,Portfolio Manager,Specialist,100,103500,sophie.colombo1048@example-bank.com
+1205,Sophie,Müller,F,1975-08-21,2010-09-01,,9,7,1073,Legal Counsel,Specialist,100,106500,sophie.müller1205@example-bank.com
+1296,Daniel,Bernasconi,M,1992-03-06,2013-04-20,,8,1,1057,Operations Specialist,Manager,80,146000,daniel.bernasconi1296@example-bank.com
+1070,Chiara,Wong,F,1990-02-08,2020-10-12,2026-02-14,5,8,1112,IT Support,Analyst,100,91000,chiara.wong1070@example-bank.com
+1006,Sophie,Smith,F,2000-12-18,2015-11-11,2026-08-05,8,5,1079,Operations Specialist,Manager,100,130000,sophie.smith1006@example-bank.com
+1309,Sara,Dubois,F,1988-10-16,2023-03-08,,8,3,1092,Operations Specialist,Specialist,100,96000,sara.dubois1309@example-bank.com
+1080,Paolo,Meier,M,1968-09-09,2013-02-22,2019-08-03,8,1,1120,Settlement Officer,Manager,100,125000,paolo.meier1080@example-bank.com
+1358,Sophie,Huber,F,2000-07-27,2018-10-08,,5,1,1084,IT Support,Specialist,100,94000,sophie.huber1358@example-bank.com
+1253,David,Fontana,M,1985-11-11,2012-12-01,2026-03-29,6,8,1122,HR Specialist,Senior,100,201500,david.fontana1253@example-bank.com
+1141,Luca,Moretti,M,1970-07-21,2023-08-21,2025-09-26,2,8,1002,Investment Analyst,Analyst,80,71500,luca.moretti1141@example-bank.com
+1174,Claire,Moretti,F,1992-07-04,2008-02-12,,5,3,1093,IT Support,Manager,100,110500,claire.moretti1174@example-bank.com
+1024,Claire,Rossi,F,1967-02-23,2012-09-02,,8,3,1025,Operations Specialist,Specialist,100,81000,claire.rossi1024@example-bank.com
+1317,Daniel,Bernasconi,M,1960-02-27,2012-08-20,,4,1,1060,Risk Analyst,Specialist,100,99000,daniel.bernasconi1317@example-bank.com
+1138,Chiara,Brown,F,1978-12-07,2023-06-16,,3,7,1073,AML Analyst,Analyst,100,88000,chiara.brown1138@example-bank.com
+1272,Jonas,Schmidt,M,1992-08-28,2023-03-03,,8,1,1060,Settlement Officer,Senior,100,156000,jonas.schmidt1272@example-bank.com
+1108,Nina,Meier,F,1968-01-10,2023-12-27,,1,4,1051,Client Advisor,Specialist,100,108500,nina.meier1108@example-bank.com
+1157,Sophie,Meier,F,1979-07-06,2025-08-08,,8,1,1051,Operations Specialist,Manager,100,113500,sophie.meier1157@example-bank.com
+1367,Jonas,Chen,M,1969-12-28,2010-02-24,,1,7,1023,Relationship Manager,Manager,100,128000,jonas.chen1367@example-bank.com
+1049,Matteo,Dubois,M,1990-05-24,2026-09-20,,2,1,1062,Portfolio Manager,Analyst,100,81500,matteo.dubois1049@example-bank.com
+1106,Simon,Smith,M,1963-11-16,2019-09-04,,7,2,1010,Accountant,Analyst,100,94000,simon.smith1106@example-bank.com
+1391,Nicolas,Dubois,M,1999-07-14,2009-06-12,,5,3,1035,Software Engineer,Specialist,100,102000,nicolas.dubois1391@example-bank.com
+1268,Marco,Wong,M,1985-08-09,2020-12-28,,5,2,1033,Data Engineer,Analyst,100,92000,marco.wong1268@example-bank.com
+1084,Daniel,Weber,M,1974-07-11,2022-07-14,,7,1,1037,Financial Controller,Manager,60,133500,daniel.weber1084@example-bank.com
+1142,James,Colombo,M,1962-03-14,2013-01-27,,4,2,1112,Risk Manager,Manager,100,110500,james.colombo1142@example-bank.com
+1140,Elena,Müller,F,1999-12-19,2015-04-02,,99,2,1010,Accountant,Analyst,100,83000,elena.müller1140@example-bank.com
+1085,Sara,Ferrari,F,1965-02-14,2011-12-24,,3,1,1013,Compliance Officer,Specialist,100,97500,sara.ferrari1085@example-bank.com
+1208,Paolo,Lombardi,M,1987-12-28,2015-01-08,,1,2,1120,Client Advisor,Specialist,100,81500,paolo.lombardi1208@example-bank.com
+1178,Julia,Martin,F,1980-07-09,2020-06-04,,8,1,1033,Operations Specialist,Manager,100,145000,julia.martin1178@example-bank.com
+1355,Claire,Colombo,F,1986-06-26,2009-10-09,2026-07-12,5,4,1025,IT Support,Analyst,60,76500,claire.colombo1355@example-bank.com
+1005,Laura,Weber,F,2000-06-06,2019-06-07,,7,4,1023,Accountant,Specialist,100,85000,laura.weber1005@example-bank.com
+1292,David,Smith,M,1995-02-19,2015-05-14,,4,3,1034,Risk Manager,Specialist,100,92000,david.smith1292@example-bank.com
+1342,Simon,Ferrari,M,1971-03-10,2011-11-15,2024-05-12,6,1,1057,Recruiter,Specialist,100,90000,simon.ferrari1342@example-bank.com
+1227,Pierre,Dubois,M,1991-09-10,2013-08-02,,1,1,1111,Relationship Manager,Analyst,100,85000,pierre.dubois1227@example-bank.com
+1066,Simon,Tan,M,1994-07-11,2023-09-02,,6,1,1079,Recruiter,Senior,100,179000,simon.tan1066@example-bank.com
+1159,Matteo,Huber,M,1997-12-22,2025-04-16,,2,7,1092,Investment Analyst,Senior,100,151500,matteo.huber1159@example-bank.com
+1282,James,Müller,M,1961-07-05,2009-11-02,2016-12-12,2,4,1060,Portfolio Manager,Senior,100,182000,james.müller1282@example-bank.com
+1339,Sophie,Smith,F,1969-05-01,2008-09-27,,8,1,1122,Settlement Officer,Specialist,100,80000,sophie.smith1339@example-bank.com
+1154,Matteo,Dubois,M,1964-02-20,2009-08-20,,7,6,1075,Accountant,Manager,100,135500,matteo.dubois1154@example-bank.com
+1320,Lukas,Ferrari,M,1995-05-24,2025-10-12,,3,5,1079,Compliance Officer,Specialist,100,86000,lukas.ferrari1320@example-bank.com
+1021,Marco,Moretti,M,1973-09-09,2012-06-03,,8,2,1033,Operations Specialist,Specialist,100,97000,marco.moretti1021@example-bank.com
+1316,Simon,Pedrazzini,M,1967-12-08,2022-12-06,,1,2,1092,Client Advisor,Manager,100,149000,simon.pedrazzini1316@example-bank.com
+1010,James,Müller,M,2000-05-27,2024-10-07,,1,4,1125,Senior Relationship Manager,Senior,80,217500,james.müller1010@example-bank.com
+1104,Nicolas,Weber,M,1962-07-12,2015-08-20,,2,4,1066,Investment Analyst,Analyst,100,77500,nicolas.weber1104@example-bank.com
+1029,Daniel,Galli,M,1972-05-02,2021-01-17,2020-03-09,8,2,1055,Operations Specialist,Specialist,60,82000,daniel.galli1029@example-bank.com
+1096,Emma,Huber,F,1996-10-15,2026-06-01,,8,3,1037,Operations Specialist,Specialist,100,95000,emma.huber1096@example-bank.com
+1274,Simon,Ferrari,M,1998-10-21,2017-09-18,,2,4,1027,Investment Analyst,Specialist,80,81500,simon.ferrari1274@example-bank.com
+1193,Laura,Lombardi,F,1999-11-14,2013-10-05,,8,5,1037,Operations Specialist,Specialist,100,97000,laura.lombardi1193@example-bank.com
+1252,Thomas,Ferrari,M,1981-05-21,2018-05-09,,6,8,1092,Recruiter,Analyst,100,74500,thomas.ferrari1252@example-bank.com
+1335,Sophie,Schmidt,F,1971-01-05,2015-11-09,2026-03-15,8,4,1061,Operations Specialist,Analyst,100,82500,sophie.schmidt1335@example-bank.com
+1278,Thomas,Rossi,M,1993-12-02,2025-07-27,2026-08-09,5,7,1034,Data Engineer,Manager,100,121000,thomas.rossi1278@example-bank.com
+1036,Marta,Martin,F,1977-08-03,2017-04-09,2020-02-29,3,6,1037,Compliance Officer,Analyst,100,77000,marta.martin1036@example-bank.com
+1018,Laura,Keller,F,1995-11-23,2023-03-07,2026-05-06,2,8,1023,Research Analyst,Manager,100,113500,laura.keller1018@example-bank.com
+1221,Marta,Bernasconi,F,2001-02-19,2026-05-27,,1,8,1101,Relationship Manager,Senior,80,206500,marta.bernasconi1221@example-bank.com
+1246,Alice,Conti,F,1993-06-27,2009-09-26,,1,1,1004,Senior Relationship Manager,Specialist,80,104500,alice.conti1246@example-bank.com
+1064,Giulia,Tan,F,1990-12-26,2020-07-22,,8,3,1077,Operations Specialist,Specialist,100,81000,giulia.tan1064@example-bank.com
+1378,Laura,Fontana,F,1991-12-11,2022-04-14,,4,1,1120,Risk Manager,Manager,100,135000,laura.fontana1378@example-bank.com
+1245,Laura,Conti,F,1966-04-05,2017-12-15,,8,1,1035,Settlement Officer,Specialist,100,82500,laura.conti1245@example-bank.com
+1386,Luca,Schmidt,M,1969-01-21,2019-01-05,,8,3,1089,Settlement Officer,Specialist,100,82500,luca.schmidt1386@example-bank.com
+1239,Jonas,Chen,M,1994-07-25,2026-04-18,,1,2,1120,Senior Relationship Manager,Specialist,100,97000,jonas.chen1239@example-bank.com
+1218,Emma,Tan,F,1986-02-18,2019-04-15,,2,1,1089,Portfolio Manager,Analyst,100,91500,emma.tan1218@example-bank.com
+1092,Andrea,Wong,M,1994-12-08,2024-09-27,,7,2,1066,Financial Controller,Manager,100,112500,andrea.wong1092@example-bank.com
+1015,Marco,Müller,M,2002-07-12,2021-07-15,2020-10-13,8,1,1071,Operations Specialist,Analyst,100,93000,marco.müller1015@example-bank.com
+1038,Laura,Huber,F,1984-07-18,2025-10-08,,5,1,1066,Business Analyst,Analyst,100,80500,laura.huber1038@example-bank.com
+1162,Laura,Meier,F,1972-06-08,2020-10-27,,2,3,1112,Research Analyst,Specialist,80,104000,laura.meier1162@example-bank.com
+1107,Simon,Keller,M,1965-04-27,2022-06-01,2023-06-18,4,2,1023,Risk Manager,Analyst,100,72500,simon.keller1107@example-bank.com
+1363,Stefano,Ricci,M,1974-03-02,2020-08-25,2022-01-25,5,2,1044,Data Engineer,Specialist,100,105000,stefano.ricci1363@example-bank.com
+1249,Giulia,Wong,F,1963-03-28,2026-04-28,2025-05-07,2,1,1120,Portfolio Manager,Analyst,100,83000,giulia.wong1249@example-bank.com
+1057,David,Pedrazzini,M,1977-10-02,2013-08-17,,6,7,1025,HR Business Partner,Senior,100,205500,david.pedrazzini1057@example-bank.com
+1094,Sara,Keller,F,1966-04-14,2026-07-17,,1,6,1025,Senior Relationship Manager,Specialist,100,90500,sara.keller1094@example-bank.com
+1340,Laura,Rossi,F,1987-05-20,2015-01-18,,3,2,1077,AML Analyst,Specialist,100,85000,laura.rossi1340@example-bank.com
+1146,Luca,Pedrazzini,Female,1967-08-10,2013-07-22,,5,6,1003,IT Support,Manager,80,150500,luca.pedrazzini1146@example-bank.com
+1371,Claire,Lombardi,F,1961-01-08,2024-05-11,,5,4,1125,Software Engineer,Specialist,100,91000,claire.lombardi1371@example-bank.com
+1380,Paolo,Weber,M,1985-05-25,2017-08-06,,4,3,1027,Risk Analyst,Manager,100,119000,paolo.weber1380@example-bank.com
+1155,Andrea,Ricci,M,1978-04-27,2026-06-19,,5,4,1079,IT Support,Analyst,50,74500,andrea.ricci1155@example-bank.com
+1139,Laura,Chen,F,1969-05-02,2017-12-03,,3,2,1112,AML Analyst,Manager,100,123500,laura.chen1139@example-bank.com
+1195,Andrea,Lombardi,M,1980-04-25,2020-08-05,,5,1,1125,Business Analyst,Specialist,100,82000,andrea.lombardi1195@example-bank.com
+1250,Thomas,Meier,M,2001-03-20,2008-04-09,,5,7,1060,IT Support,Specialist,80,92000,thomas.meier1250@example-bank.com
+1279,Claire,Wong,F,1986-10-23,2015-05-13,,9,8,1084,Paralegal,Manager,100,118500,claire.wong1279@example-bank.com
+1198,Luca,Müller,M,2000-08-01,2011-03-15,,5,8,1093,Business Analyst,Analyst,80,92000,luca.müller1198@example-bank.com
+1050,Paolo,Bianchi,M,1963-09-10,2012-11-28,,8,1,1072,Operations Specialist,Specialist,100,95000,paolo.bianchi1050@example-bank.com
+1165,Marta,Conti,F,1961-01-18,2025-07-01,,1,4,1078,Senior Relationship Manager,Senior,100,152000,marta.conti1165@example-bank.com
+1288,Daniel,Moretti,M,1994-07-03,2019-04-07,,6,1,1071,HR Specialist,Analyst,100,94000,daniel.moretti1288@example-bank.com
+1275,Claire,Huber,F,1999-10-16,2019-12-15,,1,4,1125,Relationship Manager,Analyst,80,81000,claire.huber1275@example-bank.com
+1270,Sara,Keller,F,1988-01-03,2016-11-11,,1,6,1061,Senior Relationship Manager,Manager,100,146500,sara.keller1270@example-bank.com
+1053,David,Dubois,M,2000-04-09,2010-03-08,,1,1,1033,Relationship Manager,Specialist,100,102000,david.dubois1053@example-bank.com
+1240,Thomas,Brown,M,1965-07-28,2009-09-19,,8,5,1071,Operations Specialist,Analyst,100,94000,thomas.brown1240@example-bank.com
+1166,Nina,Schmidt,F,1966-02-17,2012-04-07,,6,1,1034,HR Specialist,Analyst,100,82500,nina.schmidt1166@example-bank.com
+1273,Sophie,Martin,F,1965-08-15,2026-08-03,,8,2,1002,Operations Specialist,Senior,100,152000,sophie.martin1273@example-bank.com
+1182,Anna,Wong,F,1989-11-19,2024-03-12,,9,2,1079,Paralegal,Specialist,100,82500,anna.wong1182@example-bank.com
+1266,Nicolas,Colombo,M,1966-05-21,2015-08-10,,2,1,1061,Portfolio Manager,Manager,100,128500,nicolas.colombo1266@example-bank.com
+1067,David,Bernasconi,M,1966-08-06,2017-01-02,,3,1,1057,AML Analyst,Specialist,100,84500,david.bernasconi1067@example-bank.com
+1327,Emma,Moretti,F,2015-01-01,2020-11-25,2022-07-29,1,8,1004,Senior Relationship Manager,Specialist,100,90000,emma.moretti1327@example-bank.com
+1044,Giulia,Keller,F,1991-02-14,2019-11-27,,5,1,1027,Data Engineer,Manager,100,151500,giulia.keller1044@example-bank.com
+1374,Alice,Lombardi,F,1993-03-14,2012-11-19,,8,1,1023,Operations Specialist,Analyst,100,74500,alice.lombardi1374@example-bank.com
+1346,Sofia,Tan,F,2015-01-01,2009-12-18,,5,1,1071,IT Support,Analyst,80,71500,sofia.tan1346@example-bank.com
+1302,Elena,Weber,m,1992-09-03,2020-06-17,,1,1,1010,Senior Relationship Manager,Manager,100,158000,elena.weber1302@example-bank.com
+1384,Alice,Huber,F,1988-05-21,2013-02-05,,9,1,1089,Paralegal,Analyst,80,85500,alice.huber1384@example-bank.com
+1171,Giulia,Müller,F,1987-04-27,2010-06-20,,8,8,1013,Settlement Officer,Senior,100,0,giulia.müller1171@example-bank.com
+1394,Julia,Colombo,F,1980-09-18,2008-04-19,2017-03-16,7,5,1010,Financial Controller,Analyst,100,74500,julia.colombo1394@example-bank.com
+1286,Nicolas,Ricci,M,1967-07-02,2021-05-18,2022-09-24,2,1,1101,Investment Analyst,Analyst,100,84500,nicolas.ricci1286@example-bank.com
+1073,David,Moretti,M,1983-09-17,2016-03-09,,8,7,1077,Settlement Officer,Manager,80,131500,david.moretti1073@example-bank.com
+1089,Daniel,Keller,M,1989-06-06,2019-05-24,,3,7,1125,Compliance Officer,Manager,100,119500,daniel.keller1089@example-bank.com
+1303,Pierre,Galli,M,2002-03-24,2023-06-02,,2,2,1060,Portfolio Manager,Analyst,100,77000,pierre.galli1303@example-bank.com
+1081,Andrea,Colombo,M,1986-09-04,2010-08-15,2025-11-21,8,2,1071,Operations Specialist,Specialist,60,87000,andrea.colombo1081@example-bank.com
+1224,Jonas,Moretti,M,1961-07-26,2019-08-18,,8,1,1057,Settlement Officer,Specialist,100,85500,jonas.moretti1224@example-bank.com
+1148,James,Weber,M,1993-12-12,2010-10-04,,1,2,1079,Senior Relationship Manager,Analyst,100,87000,james.weber1148@example-bank.com
+1184,Simon,Tan,M,2001-02-22,2013-12-08,,5,3,1037,IT Support,Specialist,100,94500,simon.tan1184@example-bank.com
+1176,Emma,Ferrari,F,1983-05-08,2023-10-20,,2,1,1033,Investment Analyst,Analyst,100,82500,emma.ferrari1176@example-bank.com
+1251,Thomas,Brown,M,1993-10-13,2026-02-01,,5,3,1010,IT Support,Specialist,100,99000,thomas.brown1251@example-bank.com
+1054,Paolo,Lombardi,M,1978-12-28,2022-02-22,,2,1,1099,Research Analyst,Specialist,60,105500,paolo.lombardi1054@example-bank.com
+1011,Giulia,Müller,F,1983-05-08,2009-04-19,2024-08-02,8,1,1084,Settlement Officer,Manager,100,158500,giulia.müller1011@example-bank.com
+1364,Julia,Colombo,F,1963-09-13,2016-02-13,,5,5,1004,Data Engineer,Manager,100,140500,julia.colombo1364@example-bank.com
+1206,David,Conti,M,1964-01-19,2010-01-09,,2,7,1004,Investment Analyst,Specialist,100,100000,david.conti1206@example-bank.com
+1082,Emma,Bernasconi,F,1961-01-16,2020-07-22,2022-06-18,1,4,1111,Client Advisor,Analyst,100,72500,emma.bernasconi1082@example-bank.com
+1099,James,Bernasconi,M,1971-01-08,2022-08-17,,5,1,1013,IT Support,Senior,100,199500,james.bernasconi1099@example-bank.com
+1365,James,Fontana,M,1993-04-08,2010-05-25,,4,4,1003,Risk Analyst,Analyst,100,83000,james.fontana1365@example-bank.com
+1360,Marco,Bianchi,M,1989-06-05,2012-05-12,,8,1,1055,Settlement Officer,Manager,100,115500,marco.bianchi1360@example-bank.com
+1110,Jonas,Ricci,M,1996-04-23,2012-05-14,,1,2,1122,Senior Relationship Manager,Specialist,100,101000,jonas.ricci1110@example-bank.com
+1187,Julia,Müller,F,1982-06-28,2022-10-06,2023-12-01,8,4,1079,Settlement Officer,Senior,100,225500,julia.müller1187@example-bank.com
+1344,Emma,Lombardi,F,1962-06-03,2012-01-09,,8,1,1044,Settlement Officer,Analyst,80,78000,emma.lombardi1344@example-bank.com
+1322,Sophie,Galli,Male,1990-04-25,2018-08-22,,5,3,1062,Software Engineer,Specialist,100,88000,sophie.galli1322@example-bank.com
+1389,Marco,Galli,M,2000-09-03,2023-12-23,,5,5,1066,IT Support,Specialist,100,107000,marco.galli1389@example-bank.com
+1361,Nicolas,Ferrari,M,1980-08-06,2023-12-23,,5,7,1062,IT Support,Analyst,100,88000,nicolas.ferrari1361@example-bank.com
+1359,Paolo,Fontana,M,1961-09-05,2017-01-10,,9,1,1072,Paralegal,Analyst,80,92000,paolo.fontana1359@example-bank.com
+1088,Paolo,Lombardi,M,1979-06-12,2008-03-28,2020-08-17,1,3,1027,Relationship Manager,Analyst,50,90000,paolo.lombardi1088@example-bank.com
+1127,Emma,Dubois,F,1981-10-05,2018-12-11,2022-02-23,7,6,1079,Financial Controller,Analyst,100,81500,sofia.lombardi1076@example-bank.com
+1328,Julia,Müller,F,1980-06-20,2016-03-18,,2,1,1025,Research Analyst,Specialist,100,85500,julia.müller1328@example-bank.com
+1397,Alice,Ricci,F,1979-06-05,2011-09-22,2019-03-11,9,1,1071,Legal Counsel,Specialist,80,102500,alice.ricci1397@example-bank.com
+1025,Lukas,Chen,M,1973-11-08,2011-06-25,,5,6,1092,Data Engineer,Senior,80,180000,lukas.chen1025@example-bank.com
+1072,Jonas,Müller,M,2000-11-02,2017-08-02,,5,4,1093,Software Engineer,Senior,100,191500,jonas.müller1072@example-bank.com
+1202,Marco,Ricci,M,1996-01-20,2013-08-12,,7,3,1078,Accountant,Senior,100,228500,marco.ricci1202@example-bank.com
+1244,Pierre,Fontana,M,1985-01-13,2018-12-08,,1,2,1062,Client Advisor,Manager,100,111000,pierre.fontana1244@example-bank.com
+1201,Thomas,Ferrari,M,1974-07-03,2011-02-11,,3,1,1061,AML Analyst,Manager,80,158000,thomas.ferrari1201@example-bank.com
+1046,Thomas,Dubois,M,1982-05-11,2016-10-23,,8,3,1092,Operations Specialist,Analyst,100,93000,thomas.dubois1046@example-bank.com
+1113,Marta,Schmidt,F,1968-02-23,2022-01-10,,2,5,1034,Portfolio Manager,Specialist,100,89500,marta.schmidt1113@example-bank.com
+1347,Matteo,Bernasconi,M,1987-06-01,2013-05-19,,1,5,1037,Relationship Manager,Senior,100,224000,matteo.bernasconi1347@example-bank.com
+1098,Julia,Moretti,F,1962-08-26,2026-06-01,,5,2,1077,Software Engineer,Specialist,80,105500,julia.moretti1098@example-bank.com
+1392,Laura,Ricci,F,1995-06-25,2008-02-22,,3,2,1013,Compliance Officer,Manager,100,122000,laura.ricci1392@example-bank.com
+1369,Julia,Pedrazzini,F,1993-01-09,2013-01-10,2019-08-09,2,4,1125,Investment Analyst,Analyst,60,90500,julia.pedrazzini1369@example-bank.com
+1173,Alice,Bernasconi,F,1969-12-13,2018-06-04,2023-10-01,1,7,1034,Client Advisor,Specialist,100,88500,alice.bernasconi1173@example-bank.com
+1054,Paolo,Lombardi,M,1978-12-28,2022-02-22,,2,1,1099,Research Analyst,Specialist,60,105500,paolo.lombardi1054@example-bank.com
+1203,Lukas,Müller,M,1968-02-19,2020-06-14,,3,1,1111,AML Analyst,Specialist,100,87500,lukas.müller1203@example-bank.com
+1310,Sofia,Weber,F,1998-10-03,2015-07-13,,1,1,1063,Senior Relationship Manager,Manager,100,142000,sofia.weber1310@example-bank.com
+1002,James,Dubois,M,2001-12-18,2021-04-15,,5,5,1027,Software Engineer,Manager,100,120000,james.dubois1002@example-bank.com
+1039,Simon,Weber,M,1968-10-18,2008-07-19,,5,1,1089,Business Analyst,Analyst,100,84500,simon.weber1039@example-bank.com
+1395,Pierre,Fontana,M,1984-03-20,2011-05-23,,8,4,1075,Settlement Officer,Specialist,80,95500,pierre.fontana1395@example-bank.com
+1131,Daniel,Bianchi,M,1996-09-07,2019-09-10,2021-04-08,1,2,1002,Senior Relationship Manager,Analyst,100,89500,daniel.bianchi1131@example-bank.com
+1305,Marta,Wong,F,1983-10-21,2010-09-09,,4,7,1010,Risk Manager,Specialist,100,107500,marta.wong1305@example-bank.com
+1197,David,Moretti,M,1985-04-14,2014-08-09,,3,1,1120,Compliance Officer,Specialist,100,95500,david.moretti1197@example-bank.com
+1323,Jonas,Lombardi,M,1974-06-14,2019-09-18,,1,5,1084,Relationship Manager,Analyst,100,-85000,jonas.lombardi1323@example-bank.com
+1047,Nicolas,Conti,M,2001-12-16,2022-01-03,,2,2,1089,Portfolio Manager,Specialist,100,98500,nicolas.conti1047@example-bank.com
+1188,Paolo,Müller,M,1971-06-23,2012-09-13,,4,1,1112,Risk Manager,Specialist,100,95500,paolo.müller1188@example-bank.com
+1035,Julia,Colombo,F,1992-07-27,2025-08-06,,7,2,1078,Financial Controller,Manager,100,150500,julia.colombo1035@example-bank.com
+1379,James,Müller,M,1988-08-27,2009-04-17,,5,8,1037,Software Engineer,Specialist,100,96500,james.müller1379@example-bank.com
+1123,Thomas,Weber,M,1993-06-05,2025-11-19,2026-06-26,1,8,1066,Client Advisor,Specialist,100,107500,thomas.weber1123@example-bank.com
+1331,Daniel,Müller,M,1970-01-07,2016-08-27,,6,2,1079,HR Specialist,Analyst,100,81500,daniel.müller1331@example-bank.com
+1075,Julia,Wong,F,2000-06-04,2015-08-01,,6,7,1071,HR Specialist,Senior,100,178000,julia.wong1075@example-bank.com
+1112,Stefano,Martin,M,2002-11-04,2026-06-01,,1,2,1034,Client Advisor,Manager,80,121000,stefano.martin1112@example-bank.com
+1362,Anna,Keller,F,1986-02-28,2015-12-21,,8,7,1060,Settlement Officer,Analyst,100,86500,anna.keller1362@example-bank.com
+1116,Marco,Tan,M,2002-05-10,2022-10-23,,4,4,1062,Risk Manager,Specialist,80,103000,marco.tan1116@example-bank.com
+1353,James,Pedrazzini,M,1964-01-27,2012-03-28,,99,1,1002,Relationship Manager,Analyst,100,88000,james.pedrazzini1353@example-bank.com
+1370,Laura,Müller,F,1961-05-28,2020-04-13,,5,4,1051,IT Support,Specialist,100,99000,laura.müller1370@example-bank.com
+1324,James,Schmidt,M,1990-06-12,2014-10-09,,1,4,1075,Relationship Manager,Specialist,100,86000,james.schmidt1324@example-bank.com
+1238,Elena,Chen,F ,1984-06-06,2022-01-09,,4,1,1092,Risk Manager,Specialist,100,84500,elena.chen1238@example-bank.com
+1190,Sophie,Pedrazzini,F,1991-07-23,2022-08-06,,1,1,1075,Relationship Manager,Analyst,100,78500,sophie.pedrazzini1190@example-bank.com
+1247,Andrea,Dubois,M ,1972-01-08,2009-08-02,,8,4,1125,Settlement Officer,Specialist,100,94500,andrea.dubois1247@example-bank.com
+1012,Claire,Schmidt,F,1976-09-28,2021-04-18,,8,4,1130,Settlement Officer,Specialist,100,101000,claire.schmidt1012@example-bank.com
+1356,James,Wong,M,1972-04-17,2015-10-21,,8,3,1101,Settlement Officer,Manager,100,159000,james.wong1356@example-bank.com
+1028,Marta,Moretti,F,1981-01-04,2016-03-19,,9,1,1092,Legal Counsel,Specialist,100,91000,marta.moretti1028@example-bank.com
+1158,Daniel,Martin,M,1976-04-11,2010-08-28,,3,2,1037,Compliance Officer,Analyst,100,82000,daniel.martin1158@example-bank.com
+1156,Laura,Smith,F,1963-09-19,2013-11-22,,4,2,1111,Risk Manager,Senior,100,198500,laura.smith1156@example-bank.com
+1152,Sophie,Ferrari,F,2002-09-05,2019-02-06,,9,2,8888,Legal Counsel,Manager,80,124000,sophie.ferrari1152@example-bank.com
+1229,Alice,Pedrazzini,F,1985-10-04,2018-05-11,,1,1,1063,Client Advisor,Manager,100,141000,alice.pedrazzini1229@example-bank.com
+1212,Lukas,Bianchi,M,1995-12-24,2021-04-11,2025-07-17,2,7,1122,Investment Analyst,Analyst,100,72000,lukas.bianchi1212@example-bank.com
+1087,Sara,Huber,F,1977-10-08,2021-09-25,,8,3,1093,Operations Specialist,Specialist,80,101000,sara.huber1087@example-bank.com
+1031,Sophie,Moretti,F,1960-05-10,2014-07-26,,5,3,1034,Business Analyst,Specialist,100,101500,sophie.moretti1031@example-bank.com
+1314,Daniel,Bernasconi,M,1973-12-26,2018-07-12,,1,2,1075,Senior Relationship Manager,Analyst,100,87000,daniel.bernasconi1314@example-bank.com
+1183,Stefano,Brown,M,1981-08-26,2014-09-16,,3,1,1130,AML Analyst,Specialist,100,89500,stefano.brown1183@example-bank.com
+1376,Pierre,Martin,M,1974-11-01,2019-02-23,,8,1,1033,Settlement Officer,Manager,100,133500,pierre.martin1376@example-bank.com
+1143,Laura,Weber,F,2001-09-17,2023-03-28,,5,1,9999,Software Engineer,Specialist,100,103000,laura.weber1143@example-bank.com
+1179,Thomas,Brown,M,1964-07-22,2023-03-21,,2,1,1078,Portfolio Manager,Manager,100,134000,thomas.brown1179@example-bank.com
+1103,James,Huber,M,1994-12-17,2009-11-11,,8,3,1075,Settlement Officer,Analyst,1000,75500,james.huber1103@example-bank.com
+1255,Jonas,Tan,M,2001-02-08,2019-04-24,,8,2,1120,Settlement Officer,Specialist,100,98500,jonas.tan1255@example-bank.com
+1091,Giulia,Martin,F,1985-10-02,2008-04-10,,8,4,1089,Settlement Officer,Analyst,100,73500,giulia.martin1091@example-bank.com
+1338,Pierre,Fontana,M,1989-11-24,2026-07-17,,6,2,1060,HR Specialist,Specialist,80,87000,pierre.fontana1338@example-bank.com
+1232,Simon,Lombardi,M,2002-11-24,2018-08-01,2023-05-27,2,1,1071,Portfolio Manager,Specialist,100,105000,simon.lombardi1232@example-bank.com
+1307,Nina,Tan,F,1967-08-22,2023-08-07,,5,3,1089,Business Analyst,Analyst,100,71000,nina.tan1307@example-bank.com
+1236,Laura,Martin,F,1966-01-13,2026-09-27,2026-02-26,5,1,1089,Software Engineer,Specialist,150,89000,laura.martin1236@example-bank.com
+1136,Matteo,Rossi,M,1988-06-14,2012-07-23,,2,2,1062,Research Analyst,Senior,100,157500,matteo.rossi1136@example-bank.com
+1222,Sara,Bianchi,F,1989-01-06,2026-07-27,,7,2,1130,Financial Controller,Manager,100,121000,sara.bianchi1222@example-bank.com
+1388,Laura,Ferrari,F,1987-09-03,2017-08-05,,1,6,1079,Client Advisor,Specialist,100,96500,laura.ferrari1388@example-bank.com
+1034,Andrea,Lombardi,M,1993-08-02,2025-04-28,,1,1,1075,Client Advisor,Manager,100,145500,andrea.lombardi1034@example-bank.com
+1019,Luca,Ricci,Female,1965-03-03,2010-11-28,2026-02-22,2,1,1089,Research Analyst,Analyst,100,89000,luca.ricci1019@example-bank.com
+1043,Marco,Galli,M,2000-04-04,2017-11-20,2025-08-22,8,5,1092,Operations Specialist,Specialist,120,93500,marco.galli1043@example-bank.com
+1333,Sofia,,F,1984-10-10,2022-11-05,,8,3,1061,Settlement Officer,Specialist,100,99500,sofia.ferrari1333@example-bank.com
+1007,Chiara,Bernasconi,F,1991-07-21,2022-03-09,,1,4,1077,Senior Relationship Manager,Analyst,100,88500,chiara.bernasconi1007@example-bank.com
+1332,Anna,Rossi,F,1986-02-12,2014-10-19,,6,2,1130,HR Specialist,Specialist,100,101500,anna.rossi1332@example-bank.com
+1214,Alice,Fontana,F,1975-08-12,2026-08-25,,8,4,1023,Operations Specialist,Analyst,100,83000,alice.fontana1214@example-bank.com
+1387,Andrea,Pedrazzini,M,1978-10-22,2026-09-06,,9,4,1061,Paralegal,Senior,100,161500,andrea.pedrazzini1387@example-bank.com
+1223,Laura,Weber,F,1969-01-20,2015-11-10,,5,6,1023,Business Analyst,Analyst,100,78500,laura.weber1223@example-bank.com
+1033,Thomas,Keller,M,2000-10-07,2020-08-13,,2,3,1061,Portfolio Manager,Manager,80,159000,thomas.keller1033@example-bank.com
+1052,Julia,Fontana,F,1999-04-25,2024-07-15,,8,1,1120,Settlement Officer,Specialist,100,99500,julia.fontana1052@example-bank.com
+1400,Claire,Tan,F,1977-03-23,2017-10-08,,1,1,1060,Client Advisor,Specialist,100,81500,claire.tan1400@example-bank.com
+1135,Nicolas,Bianchi,M,1997-08-06,2024-11-24,,6,5,1033,HR Business Partner,Manager,100,125500,nicolas.bianchi1135@example-bank.com
+1283,David,Moretti,M,1962-06-27,2022-02-20,,8,4,1057,Operations Specialist,Manager,100,145500,david.moretti1283@example-bank.com
+1062,Chiara,Fontana,F,1992-12-05,2010-05-25,,8,2,1112,Settlement Officer,Manager,100,128000,chiara.fontana1062@example-bank.com
+1086,Anna,PEDRAZZINI,F,1987-12-02,2017-10-10,2024-07-03,3,3,1120,Compliance Officer,Analyst,100,85000,anna.pedrazzini1086@example-bank.com
+1008,Chiara,Meier,F,1992-08-03,2009-02-05,,6,5,1037,HR Specialist,Specialist,100,92000,chiara.meier1008@example-bank.com
+1233,Alice,Keller,F,1970-07-16,2020-06-18,2021-03-07,4,5,1111,Risk Analyst,Analyst,100,72000,alice.keller1233@example-bank.com
+1093,Simon,Tan,M,1996-07-19,2020-12-21,,4,1,1120,Risk Analyst,Senior,80,171500,simon.tan1093@example-bank.com
+1102,Jonas,Pedrazzini,male,1987-09-12,2008-06-10,,1,1,1125,Client Advisor,Analyst,100,74000,jonas.pedrazzini1102@example-bank.com
+1254,Stefano,Colombo,M,1974-11-18,2023-11-12,,5,5,1035,Data Engineer,Analyst,100,85000,stefano.colombo1254@example-bank.com
+1076,Sofia,Lombardi,F,1979-11-14,2011-03-02,2021-10-31,8,1,1051,Settlement Officer,Analyst,80,77500,sofia.lombardi1076@example-bank.com
+1289,Marco,Pedrazzini,M,1982-08-08,2015-01-22,2023-12-17,8,2,1023,Operations Specialist,Specialist,100,97000,marco.pedrazzini1289@example-bank.com
+1216,Alice,Chen,F,1989-12-03,2026-02-17,,1,5,1101,Relationship Manager,Specialist,100,81500,alice.chen1216@example-bank.com
+1294,Laura,Pedrazzini,F,1961-08-06,2025-04-05,,7,5,1078,Financial Controller,Senior,100,168000,laura.pedrazzini1294@example-bank.com
+1042,Alice,Smith,F,1983-03-20,2011-03-10,,1,1,1013,Client Advisor,Specialist,60,109000,alice.smith1042@example-bank.com
+1061,Sara,Martin,F,1967-08-04,2012-08-23,,2,4,1066,Investment Analyst,Manager,100,140000,sara.martin1061@example-bank.com
+1337,Andrea,Ricci,M,1970-01-02,2019-06-28,,5,8,1025,IT Support,Specialist,60,84000,andrea.ricci1337@example-bank.com
+1175,Nicolas,Moretti,Male,1975-10-17,2013-11-13,,1,1,1079,Client Advisor,Specialist,100,82000,nicolas.moretti1175@example-bank.com
+1147,Matteo,Meier,M,1990-03-15,2019-07-23,,5,2,1057,Data Engineer,Manager,100,153500,matteo.meier1147@example-bank.com
+1134,Emma,Rossi,F,1983-06-22,2011-07-19,,2,6,1077,Research Analyst,Specialist,100,99000,emma.rossi1134@example-bank.com
+1071,Lukas,Fontana,M,1991-05-25,2015-10-26,,3,3,1035,AML Analyst,Manager,100,156000,lukas.fontana1071@example-bank.com
+1354,Claire,Fontana,F,1997-05-02,2019-04-20,,7,1,1078,Accountant,Manager,100,115000,claire.fontana1354@example-bank.com
+1126,Julia,Bernasconi,F,1961-08-21,2025-05-21,2026-06-17,8,2,1063,Settlement Officer,Analyst,100,72000,julia.bernasconi1126@example-bank.com
+1318,Julia,Bernasconi,F,1993-05-23,2009-03-21,,5,1,1034,IT Support,Analyst,100,89000,julia.bernasconi1318@example-bank.com
+1065,Laura,Müller,F,1988-02-17,2022-01-24,,1,6,1122,Relationship Manager,Analyst,100,78000,laura.müller1065@example-bank.com
+1285,Lukas,Bernasconi,M,2001-06-25,2026-09-24,,5,5,1037,Data Engineer,Analyst,50,75500,lukas.bernasconi1285@example-bank.com
+1390,Sofia,Meier,F,1999-10-16,2024-12-21,2026-05-05,5,5,1060,Data Engineer,Manager,100,122000,sofia.meier1390@example-bank.com
+1230,Chiara,Pedrazzini,F,1997-03-13,2017-12-23,,2,1,1130,Portfolio Manager,Senior,100,223000,chiara.pedrazzini1230@example-bank.com
+1118,Marco,Martin,M,2001-06-12,2020-10-02,2023-04-21,5,4,1130,IT Support,Specialist,100,104000,marco.martin1118@example-bank.com
+1248,Jonas,Rossi,M,1975-06-16,2022-03-28,,5,3,1063,IT Support,Analyst,100,78000,jonas.rossi1248@example-bank.com
+1383,Daniel,Moretti,M,1984-01-25,2013-06-19,2020-11-12,8,6,1062,Operations Specialist,Manager,100,121000,daniel.moretti1383@example-bank.com
+1325,Chiara,Martin,F,1972-04-27,2019-03-25,,1,7,1066,Senior Relationship Manager,Senior,100,213000,chiara.martin1325@example-bank.com
+1259,Luca,Moretti,M,1972-12-12,2008-06-25,,8,1,1003,Operations Specialist,Specialist,100,87500,luca.moretti1259@example-bank.com
+1287,Julia,Bianchi,F,2000-10-27,2017-08-26,,5,2,1004,IT Support,Specialist,100,85500,julia.bianchi1287@example-bank.com
+1385,Pierre,Conti,M,1975-04-19,2023-08-14,,4,3,1013,Risk Analyst,Analyst,100,87500,pierre.conti1385@example-bank.com
+1326,Simon,Conti,M,1983-10-11,2023-10-28,2025-10-15,,1,1101,Research Analyst,Analyst,100,77000,simon.conti1326@example-bank.com
+1301,Simon,Galli,M,1997-07-25,2026-04-02,,5,2,1072,Business Analyst,Manager,100,119500,simon.galli1301@example-bank.com
+1210,David,Rossi,M,1981-07-09,2024-02-09,,7,3,1073,Accountant,Specialist,100,96000,david.rossi1210@example-bank.com
+1375,Sophie,Brown,F,1988-12-27,2016-03-25,,2,1,1125,Portfolio Manager,Manager,100,149000,sophie.brown1375@example-bank.com
+1124,Elena,Schmidt,F,1980-12-08,2019-09-10,2022-01-27,8,1,1063,Settlement Officer,Analyst,100,79500,elena.schmidt1124@example-bank.com
+1060,Matteo,Smith,M,1995-03-10,2022-12-16,,1,8,1013,Senior Relationship Manager,Manager,100,155000,matteo.smith1060@example-bank.com
+1162,Laura,Meier,F,1972-06-08,2020-10-27,,2,3,1112,Research Analyst,Specialist,80,104000,laura.meier1162@example-bank.com
+1234,Laura,Müller,F,1964-06-06,2020-03-24,,1,7,1002,Relationship Manager,Specialist,80,99500,laura.müller1234@example-bank.com
+1119,Anna,Bernasconi,F,1977-04-04,2008-12-06,,5,2,1120,Software Engineer,Analyst,100,78000,anna.bernasconi1119@example-bank.com
+1186,Pierre,Müller,M,1994-03-12,2018-04-15,,1,4,1099,Client Advisor,Specialist,100,100000,pierre.müller1186@example-bank.com
+1304,Sophie,Conti,F,1989-01-02,2018-02-23,,9,3,1027,Paralegal,Manager,100,126500,sophie.conti1304@example-bank.com
+1169,Lukas,Ferrari,M,1977-09-19,2009-03-28,,3,8,1033,Compliance Officer,Manager,80,155500,lukas.ferrari1169@example-bank.com
+1125,Andrea,Pedrazzini,M,1999-12-20,2018-10-02,,8,1,1120,Operations Specialist,Senior,100,223500,andrea.pedrazzini1125@example-bank.com
+1350,Claire,Brown,F,1994-12-16,2014-10-06,,99,1,1002,Business Analyst,Analyst,80,89000,claire.brown1350@example-bank.com
+1321,Paolo,Schmidt,M,1986-09-04,2025-02-17,,2,7,1002,Research Analyst,Senior,80,218500,paolo.schmidt1321@example-bank.com
+1100,  David  ,Bernasconi,M,2001-06-03,2018-02-18,,7,1,1125,Accountant,Specialist,100,98500,david.bernasconi1100@example-bank.com
+1138,Chiara,Brown,F,1978-12-07,2023-06-16,,3,7,1073,AML Analyst,Analyst,100,88000,chiara.brown1138@example-bank.com
+1396,Chiara,Ricci,F,1979-03-04,2019-01-25,2023-05-17,2,1,1075,Research Analyst,Analyst,80,85000,chiara.ricci1396@example-bank.com
+1398,Jonas,Fontana,M,1965-06-15,2009-02-17,,8,4,1010,Operations Specialist,Specialist,100,89500,jonas.fontana1398@example-bank.com
+1267,Alice,Müller,F,1966-01-01,2012-11-21,2021-01-25,1,2,1060,Client Advisor,Senior,80,184000,alice.müller1267@example-bank.com
+1269,Marco,Keller,M,1997-08-26,2026-03-01,,5,5,1130,Software Engineer,Manager,50,156500,marco.keller1269@example-bank.com
+1242,Marco,Wong,M,1995-07-18,2018-05-17,,5,6,1072,Business Analyst,Analyst,100,74500,marco.wong1242@example-bank.com
+1357,Alice,Pedrazzini,F,1987-02-06,2013-09-13,,5,3,1025,Business Analyst,Senior,100,190000,alice.pedrazzini1357@example-bank.com
+1027,Chiara,Dubois,F,1989-06-10,2015-04-01,,6,2,1092,HR Specialist,Manager,100,159000,chiara.dubois1027@example-bank.com
+1271,Claire,Ricci,F,1999-02-14,2015-08-12,,6,3,1061,HR Business Partner,Manager,80,145500,claire.ricci1271@example-bank.com
+1063,Laura,Meier,F,1988-09-16,2019-06-18,,8,2,1092,Settlement Officer,Manager,100,154500,laura.meier1063@example-bank.com
+1276,Claire,Ricci,F,1983-12-04,2009-03-16,,1,4,1037,Senior Relationship Manager,Specialist,100,88000,claire.ricci1276@example-bank.com
+1215,Stefano,Rossi,M,2002-07-28,2017-02-07,2020-03-11,5,1,1034,Business Analyst,Senior,100,168000,stefano.rossi1215@example-bank.com
+1281,James,Moretti,M,2000-06-23,2011-06-18,,5,3,1037,Business Analyst,Manager,100,144000,james.moretti1281@example-bank.com
+1295,Giulia,Moretti,F,1995-03-04,2009-01-19,,5,2,1075,Software Engineer,Specialist,100,103500,giulia.moretti1295@example-bank.com
+1258,Chiara,Huber,F,1970-10-25,2013-08-26,,8,1,1130,Settlement Officer,Specialist,100,92500,chiara.huber1258@example-bank.com
+1290,Emma,Bianchi,F,1978-11-07,2018-09-03,,8,1,1034,Operations Specialist,Specialist,100,86500,emma.bianchi1290@example-bank.com
+1115,Anna,Schmidt,F,1991-12-16,2019-09-09,,8,4,1111,Operations Specialist,Specialist,100,106000,anna.schmidt1115@example-bank.com
+1372,Nina,Bianchi,F,2000-05-13,2008-09-09,,2,1,1027,Investment Analyst,Manager,100,115500,nina.bianchi1372@example-bank.com
+1041,Chiara,Bernasconi,F,1964-11-02,2008-04-07,,8,3,1003,Operations Specialist,Analyst,100,91000,chiara.bernasconi1041@example-bank.com
+1196,Daniel,Ricci,M,1977-12-12,2022-08-11,,,6,1002,Software Engineer,Manager,100,139000,daniel.ricci1196@example-bank.com
+1343,Andrea,Müller,M,1978-05-05,2022-12-01,,2,1,1122,Investment Analyst,Analyst,100,83000,andrea.müller1343@example-bank.com
+1017,Marco,Huber,female,1975-03-14,2023-08-07,,8,7,1111,Operations Specialist,Specialist,100,92000,marco.huber1017@example-bank.com
+1299,Stefano,Martin,M,1974-12-24,2021-05-27,,3,4,1051,AML Analyst,Manager,100,139500,stefano.martin1299@example-bank.com
+1194,Alice,Brown,F,1978-10-09,2024-11-27,2025-10-08,1,8,1079,Client Advisor,Senior,80,185000,alice.brown1194@example-bank.com
+1111,Sara,Ricci,F,1994-09-26,2024-09-01,,4,2,1002,Risk Manager,Senior,100,182000,sara.ricci1111@example-bank.com
+1177,Emma,Tan,F,1987-11-20,2012-05-11,,5,4,1023,Business Analyst,Specialist,60,92500,emma.tan1177@example-bank.com
+1298,Lukas,Dubois,M,1980-08-15,2018-10-22,,2,3,1035,Research Analyst,Specialist,100,105500,lukas.dubois1298@example-bank.com
+1261,Stefano,Conti,M,1982-04-06,2020-01-08,2020-12-06,2,8,1093,Portfolio Manager,Manager,100,147500,stefano.conti1261@example-bank.com
+1373,Daniel,Martin,M,1996-03-14,2017-10-11,,5,1,1027,Data Engineer,Specialist,80,101500,daniel.martin1373@example-bank.com
+1161,Emma,Müller,F,1990-06-07,2019-06-14,,1,6,1044,Senior Relationship Manager,Analyst,100,78000,emma.müller1161@example-bank.com
+1109,James,Colombo,M,1998-09-14,2011-05-08,2023-01-19,2,1,1033,Investment Analyst,Specialist,100,99500,james.colombo1109@example-bank.com
+1312,Claire,Keller,F,1983-01-23,2024-07-08,,8,2,1111,Settlement Officer,Specialist,100,105500,claire.keller1312@example-bank.com
+1055,Jonas,Meier,M,1977-03-03,2009-03-26,,2,4,1025,Research Analyst,Senior,100,206000,jonas.meier1055@example-bank.com
+1014,Sara,Ricci,F,1975-05-22,2023-04-18,,1,7,1063,Senior Relationship Manager,Specialist,100,87500,sara.ricci1014@example-bank.com
+1303,Pierre,Galli,M,2002-03-24,2023-06-02,,2,2,1060,Portfolio Manager,Analyst,100,77000,pierre.galli1303@example-bank.com
+1077,Marta,Colombo,F,1994-07-19,2012-07-21,,1,2,1125,Client Advisor,Senior,100,185500,marta.colombo1077@example-bank.com
+1149,Sara,Pedrazzini,F,1973-12-19,2023-02-17,,99,1,1122,Risk Analyst,Specialist,100,94500,sara.pedrazzini1149@example-bank.com
+1382,Sara,Smith,F,1980-12-21,2013-12-24,,1,1,1060,Client Advisor,Specialist,100,82500,sara.smith1382@example-bank.com
+1189,James,Schmidt,M,1991-05-05,2013-06-27,,5,1,1084,IT Support,Senior,100,212000,james.schmidt1189@example-bank.com
+1083,Julia,Bernasconi,F,1997-09-23,2018-07-20,,5,2,1057,Business Analyst,Analyst,100,92000,julia.bernasconi1083@example-bank.com
+1016,Matteo,Dubois,M,1994-08-05,2021-03-09,2025-05-02,5,6,1044,Software Engineer,Specialist,80,107500,matteo.dubois1016@example-bank.com
+1319,Jonas,Bianchi,M,1983-04-21,2008-03-03,,9,5,1101,Paralegal,Manager,100,135500,jonas.bianchi1319@example-bank.com
+1151,Lukas,Conti,M,1962-05-14,2013-03-25,,,4,1066,HR Specialist,Specialist,100,108500,lukas.conti1151@example-bank.com
+1241,Matteo,Dubois,M,1968-01-14,2010-11-14,,2,5,1078,Portfolio Manager,Manager,100,126500,matteo.dubois1241@example-bank.com
+1192,Daniel,Müller,M,2001-04-10,2009-08-09,,3,5,1055,AML Analyst,Manager,100,117500,daniel.müller1192@example-bank.com
+1334,Marco,Schmidt,M,1981-04-11,2018-11-10,,7,3,1071,Financial Controller,Analyst,100,84000,marco.schmidt1334@example-bank.com
+1209,Marco,Rossi,M,1968-12-01,2013-08-12,,5,5,1092,IT Support,Analyst,100,74000,marco.rossi1209@example-bank.com
+1172,Emma,Martin,F,1982-09-13,2021-03-22,,5,2,1003,IT Support,Manager,100,155500,emma.martin1172@example-bank.com
+1185,Andrea,Bernasconi,M,2002-07-13,2008-12-20,,8,2,1089,Settlement Officer,Specialist,100,102500,andrea.bernasconi1185@example-bank.com
+1311,Andrea,Conti,M,1999-10-02,2025-09-25,,1,2,1092,Relationship Manager,Senior,80,219000,andrea.conti1311@example-bank.com
+1168,Marco,Conti,Female,1987-11-26,2018-10-28,,9,6,1033,Legal Counsel,Analyst,80,92000,marco.conti1168@example-bank.com
+1013,Sara,Martin,F,1974-02-11,2008-10-18,,2,1,1073,Portfolio Manager,Manager,100,113500,sara.martin1013@example-bank.com
+1074,Andrea,Huber,MALE,1974-11-24,2020-09-12,,1,2,1013,Client Advisor,Specialist,100,94500,andrea.huber1074@example-bank.com
+1145,Anna,Martin,F,1960-05-13,2015-08-25,,2,1,1062,Research Analyst,Manager,100,110500,anna.martin1145@example-bank.com
+1219,Matteo,Tan,M,1969-02-23,2015-06-13,,5,4,1101,IT Support,Manager,100,121000,matteo.tan1219@example-bank.com
+1329,Anna,Wong,F,1977-08-06,2026-03-19,,7,5,1111,Financial Controller,Manager,100,145500,anna.wong1329@example-bank.com
+1037,Daniel,Keller,M,1981-09-15,2021-01-07,,8,2,1072,Operations Specialist,Manager,100,158500,daniel.keller1037@example-bank.com
+1213,Andrea,Martin,M,1993-01-13,2010-08-28,,,5,1092,Investment Analyst,Analyst,100,84500,andrea.martin1213@example-bank.com
+1349,Andrea,Conti,f,1974-06-18,2019-08-24,,2,4,1112,Investment Analyst,Manager,80,126000,andrea.conti1349@example-bank.com
+1191,Julia,Colombo,F,1991-09-17,2011-10-04,,2,2,1072,Investment Analyst,Specialist,100,104000,julia.colombo1191@example-bank.com
+1293,David,Colombo,M,1997-01-23,2010-06-17,,1,5,1093,Client Advisor,Specialist,100,8500000,david.colombo1293@example-bank.com
+1167,Julia,Martin,F,1974-05-22,2010-11-28,,6,1,1062,HR Specialist,Specialist,100,97500,julia.martin1167@example-bank.com
+1105,Sofia,Dubois,F,1983-11-19,2022-08-25,,2,2,1093,Research Analyst,Specialist,80,85000,sofia.dubois1105@example-bank.com
+1122,Emma,Moretti,F,1968-10-03,2028-10-01,,9,4,1051,Paralegal,Manager,100,146500,emma.moretti1122@example-bank.com
+1377,Elena,Schmidt,F,1972-04-02,2021-01-09,,8,1,1075,Operations Specialist,Manager,100,114000,elena.schmidt1377@example-bank.com
+1262,Sofia,Bernasconi,F,1976-09-20,2009-10-02,,6,3,1023,HR Business Partner,Analyst,100,73500,sofia.bernasconi1262@example-bank.com
+1058,Thomas,Chen,M,1986-06-11,2011-03-11,2017-05-05,4,2,1066,Risk Manager,Manager,100,145000,thomas.chen1058@example-bank.com
+1228,David,Meier,M,1981-12-06,2018-01-01,,1,4,1122,Relationship Manager,Manager,80,143500,david.meier1228@example-bank.com
+1399,Matteo,Brown,M,1977-09-11,2022-11-04,2026-05-18,2,1,1060,Portfolio Manager,Analyst,100,89500,matteo.brown1399@example-bank.com
+1040,Chiara,Weber,F,1980-06-25,2028-05-01,,8,2,1093,Operations Specialist,Specialist,100,103500,chiara.weber1040@example-bank.com
+1056,Laura,Ricci,F,1994-08-15,2010-10-02,,8,4,1077,Settlement Officer,Analyst,60,77000,laura.ricci1056@example-bank.com
+1180,Julia,Wong,F,1994-09-28,2021-09-02,,8,2,1089,Operations Specialist,Analyst,100,77500,julia.wong1180@example-bank.com
+1121,Sofia,Brown,F,1970-12-23,2013-06-17,,2,8,1044,Portfolio Manager,Analyst,100,85500,sofia.brown1121@example-bank.com
+1308,Jonas,Ricci,M,1962-10-05,2009-03-09,,8,2,1077,Settlement Officer,Specialist,100,98000,jonas.ricci1308@example-bank.com
+1023,Claire,Conti,F,1976-01-03,2021-05-02,,1,5,1092,Senior Relationship Manager,Senior,100,170500,claire.conti1023@example-bank.com
+1393,Sofia,Conti,F,1962-11-05,2023-03-21,,5,6,1061,IT Support,Specialist,100,106000,sofia.conti1393@example-bank.com
+1277,Chiara,Weber,F,1972-12-11,2011-07-02,,8,5,1122,Operations Specialist,Manager,100,138500,chiara.weber1277@example-bank.com
+1181,Pierre,Bernasconi,M,2001-07-25,2018-07-04,,1,1,1125,Senior Relationship Manager,Manager,100,145500,pierre.bernasconi1181@example-bank.com
+1348,Stefano,Huber,M,1965-04-06,2023-02-22,,6,7,1066,Recruiter,Analyst,100,81000,stefano.huber1348@example-bank.com
+1009,Claire,Rossi,F,1967-11-18,2016-11-11,,1,2,1125,Client Advisor,Analyst,80,93000,claire.rossi1009@example-bank.com
+1132,Anna,Tan,F,1995-06-25,2012-04-20,,5,2,1130,Software Engineer,Analyst,100,92500,anna.tan1132@example-bank.com
+1133,Elena,Fontana,F,1992-03-11,2018-03-13,,9,4,1099,Paralegal,Specialist,80,96000,elena.fontana1133@example-bank.com
+1366,Anna,Fontana,F,2001-01-25,2017-03-12,,6,8,1130,HR Specialist,Specialist,100,94000,anna.fontana1366@example-bank.com
+1032,Jonas,Ferrari,M,1978-09-22,2018-02-27,2023-12-24,8,1,1130,Settlement Officer,Analyst,100,76000,jonas.ferrari1032@example-bank.com
+1117,Laura,Bernasconi,F,1963-02-22,2020-06-17,,8,4,1075,Operations Specialist,Analyst,100,89000,laura.bernasconi1117@example-bank.com
+1368,Paolo,Weber,M,1990-01-11,2014-12-18,2015-11-13,2,2,1010,Investment Analyst,Specialist,100,99500,paolo.weber1368@example-bank.com
+1284,Alice,Pedrazzini,F,1963-07-13,2021-11-11,,9,1,1093,Paralegal,Analyst,80,94500,alice.pedrazzini1284@example-bank.com
+1022,Jonas,Moretti,M,1979-11-04,2012-05-04,,8,4,1023,Operations Specialist,Analyst,100,89000,jonas.moretti1022@example-bank.com
+1163,Emma,Schmidt,F,1982-03-05,2025-08-06,,8,2,1075,Operations Specialist,Specialist,80,106500,emma.schmidt1163@example-bank.com
+1297,Marta,Moretti,F,1964-05-22,2010-05-04,2024-09-22,2,3,1084,Investment Analyst,Specialist,100,101000,marta.moretti1297@example-bank.com
+1226,David,Martin,M,1996-07-12,2013-03-08,,5,5,1013,IT Support,Senior,100,153500,david.martin1226@example-bank.com
+1260,Elena,Müller,F,1984-09-19,2017-03-03,,8,1,1062,Settlement Officer,Specialist,100,96500,elena.müller1260@example-bank.com
+1351,James,Meier,M,1988-05-27,2016-09-12,,5,5,1002,Business Analyst,Manager,100,111000,james.meier1351@example-bank.com
+1095,James,Ricci,M,1972-06-12,2012-04-04,,1,1,1084,Senior Relationship Manager,Analyst,100,94000,james.ricci1095@example-bank.com
+1020,Sofia,Smith,F,1973-11-23,2018-04-09,2023-11-26,4,4,1120,Risk Manager,Specialist,100,109500,sofia.smith1020@example-bank.com
+1336,Claire,Bianchi,F,1961-07-17,2010-02-09,,6,1,1061,HR Specialist,Specialist,100,87500,claire.bianchi1336@example-bank.com
+1059,Sara,Huber,F,1985-09-27,2008-11-28,,5,2,1112,Data Engineer,Specialist,100,99500,sara.huber1059@example-bank.com
+1120,Alice,Conti,F,1972-02-05,2010-08-06,,8,2,1084,Operations Specialist,Manager,100,130000,alice.conti1120@example-bank.com
+1026,Lukas,Keller,M,1961-03-24,2018-07-26,,7,4,1063,Accountant,Analyst,100,92000,lukas.keller1026@example-bank.com
