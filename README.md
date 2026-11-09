@@ -61,8 +61,6 @@ The project answers typical HR questions:
 
 ## Project Structure
 
-<!-- TODO: adjust file and folder names to match your actual repository -->
-
 ```
 hr-analytics-sqlserver-powerbi/
 ├── README.md
