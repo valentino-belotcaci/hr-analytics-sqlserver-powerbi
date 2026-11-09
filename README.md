@@ -160,23 +160,21 @@ The report connects to SQL Server in **Import** mode and loads the clean views t
 
 ## Screenshots
 
-> Replace each placeholder below with a screenshot from `powerbi/screenshots/`.
-
 ### Overview
 
-<!-- ![Overview](powerbi/screenshots/01_overview.png) -->
+![Overview](powerbi/screenshots/01_overview.png)
 
 ### Turnover and Tenure
 
-<!-- ![Turnover](powerbi/screenshots/02_turnover.png) -->
+![Turnover](powerbi/screenshots/02_turnover.png)
 
 ### Diversity and Compensation
 
-<!-- ![Diversity and pay](powerbi/screenshots/03_diversity_pay.png) -->
+![Diversity and pay](powerbi/screenshots/03_diversity_pay.png)
 
 ### Data Quality
 
-<!-- ![Data quality](powerbi/screenshots/04_data_quality.png) -->
+![Data quality](powerbi/screenshots/04_data_quality.png)
 
 ---
 
